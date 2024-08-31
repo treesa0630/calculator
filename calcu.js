@@ -17,6 +17,6 @@ function equal(){
         result.value= `Error`
         setTimeout(()=>{
             result.value= ""
-        }, 2000)
+        }, 1000)
     }
 }
